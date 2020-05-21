@@ -52,7 +52,7 @@
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/after/sale/AfterSaleOosAccountPipe.java" timestamp="1590038670993" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/AfterSaleLoadPipe.java" timestamp="1590038781818" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590041585987">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590044168898">
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
@@ -69,7 +69,7 @@
         <mark key="." line="41" column="74" />
         <mark key="^" line="41" column="75" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590040853445">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590044437677">
         <mark key="'" line="43" column="8" />
         <mark key="[" line="100" column="17" />
         <mark key="]" line="100" column="17" />
@@ -88,7 +88,7 @@
         <mark key="]" line="50" column="61" />
         <mark key="." line="50" column="61" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590042134278">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590043979887">
         <mark key="'" line="416" column="31" />
         <mark key="[" line="322" column="44" />
         <mark key="]" line="322" column="44" />
