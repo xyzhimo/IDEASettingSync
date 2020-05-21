@@ -39,28 +39,11 @@
         <mark key="]" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590042341972">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/AfterSaleConverter.java" timestamp="1590039823674">
         <mark key="[" line="403" column="13" />
         <mark key="]" line="403" column="13" />
         <mark key="." line="403" column="13" />
         <mark key="^" line="405" column="8" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/after/sale/AfterSaleOosAccountPipe.java" timestamp="1590038670993" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/AfterSaleLoadPipe.java" timestamp="1590038781818" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590044168898">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleOosCalPipe.java" timestamp="1590040124026">
-        <mark key="[" line="68" column="46" />
-        <mark key="]" line="68" column="46" />
-        <mark key="." line="68" column="46" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderPageAfterSaleInfoPipe.java" timestamp="1590038984344" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/factory/create/TradeCreateV2Factory.java" timestamp="1590041564843">
@@ -88,12 +71,6 @@
         <mark key="]" line="50" column="61" />
         <mark key="." line="50" column="61" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590043979887">
-        <mark key="'" line="416" column="31" />
-        <mark key="[" line="322" column="44" />
-        <mark key="]" line="322" column="44" />
-        <mark key="." line="322" column="44" />
-      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/provider/impl/aftersales/AfterSalesProviderImpl.java" timestamp="1590038802865" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/rollback/impl/RollBackCouponsUserPipe.java" timestamp="1590041734897">
         <mark key="[" line="40" column="20" />
@@ -110,6 +87,29 @@
         <mark key="[" line="50" column="48" />
         <mark key="]" line="50" column="48" />
         <mark key="." line="50" column="48" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/sxc/jotunheim/trade/SequenceUtilTest.java" timestamp="1590046056647" />
+      <file name="/Dummy.txt" timestamp="1590042341972">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590044168898">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleOosCalPipe.java" timestamp="1590040124026">
+        <mark key="[" line="68" column="46" />
+        <mark key="]" line="68" column="46" />
+        <mark key="." line="68" column="46" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/test/sxc/jotunheim/trade/provider/QueryOrderProviderTest.java" timestamp="1590045585135" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590043979887">
+        <mark key="'" line="416" column="31" />
+        <mark key="[" line="322" column="44" />
+        <mark key="]" line="322" column="44" />
+        <mark key="." line="322" column="44" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleRefundCalPipe.java" timestamp="1590040289524" />
     </filemarks>
