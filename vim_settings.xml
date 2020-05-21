@@ -37,11 +37,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590026459409">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590027077256">
+        <mark key="[" line="588" column="31" />
+        <mark key="]" line="588" column="32" />
+        <mark key="^" line="588" column="32" />
+        <mark key="." line="588" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -55,11 +55,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="4">
+        <text>Snapshots</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>选择代金券报错修复和返还代金券 id 列表数据丢失</text>
+        <text>Snapshots</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
