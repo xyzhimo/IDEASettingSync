@@ -71,7 +71,6 @@
         <mark key="]" line="50" column="61" />
         <mark key="." line="50" column="61" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/provider/impl/aftersales/AfterSalesProviderImpl.java" timestamp="1590038802865" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/rollback/impl/RollBackCouponsUserPipe.java" timestamp="1590041734897">
         <mark key="[" line="40" column="20" />
         <mark key="]" line="40" column="37" />
@@ -88,7 +87,7 @@
         <mark key="]" line="50" column="48" />
         <mark key="." line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/sxc/jotunheim/trade/SequenceUtilTest.java" timestamp="1590046056647" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/sxc/jotunheim/trade/SequenceUtilTest.java" timestamp="1590046131931" />
       <file name="/Dummy.txt" timestamp="1590042341972">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -103,6 +102,12 @@
         <mark key="[" line="68" column="46" />
         <mark key="]" line="68" column="46" />
         <mark key="." line="68" column="46" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/pom.xml" timestamp="1590046342361">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/test/sxc/jotunheim/trade/provider/QueryOrderProviderTest.java" timestamp="1590045585135" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590043979887">
@@ -146,10 +151,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>订单列表代金券金额不正确</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>订单列表代金券金额不正确</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
@@ -210,7 +215,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
