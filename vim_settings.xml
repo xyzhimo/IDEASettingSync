@@ -34,13 +34,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590029066178">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="103" column="71" />
-        <mark key="]" line="103" column="71" />
-        <mark key="." line="103" column="71" />
-        <mark key="^" line="40" column="62" />
-      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/mq/consumer/DepositChargeConsumer.java" timestamp="1590030384912">
         <mark key="[" line="59" column="11" />
         <mark key="]" line="60" column="20" />
@@ -52,7 +45,31 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/afterSales/AfterSalesOosNoVerifyStrategy.java" timestamp="1590038628239" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/AfterSaleConverter.java" timestamp="1590039823674">
+        <mark key="[" line="403" column="13" />
+        <mark key="]" line="403" column="13" />
+        <mark key="." line="403" column="13" />
+        <mark key="^" line="405" column="8" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/after/sale/AfterSaleOosAccountPipe.java" timestamp="1590038670993" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/AfterSaleLoadPipe.java" timestamp="1590038781818" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590040076181">
+        <mark key="[" line="225" column="3" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleOosCalPipe.java" timestamp="1590040124026">
+        <mark key="[" line="68" column="46" />
+        <mark key="]" line="68" column="46" />
+        <mark key="." line="68" column="46" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderPageAfterSaleInfoPipe.java" timestamp="1590038984344" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590029066178">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="103" column="71" />
+        <mark key="]" line="103" column="71" />
+        <mark key="." line="103" column="71" />
+        <mark key="^" line="40" column="62" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/afterSales/AfterSalesOosNoVerifyStrategy.java" timestamp="1590038828729" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/cal/impl/CouponsCalPipe.java" timestamp="1590033696188" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/UsableCouponsV2LoaderPipe.java" timestamp="1590033540254">
         <mark key="'" line="65" column="39" />
@@ -61,20 +78,25 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/after/sale/AfterSaleOosAccountPipe.java" timestamp="1590038670993" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/AfterSaleLoadPipe.java" timestamp="1590038706483" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590030282809">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590039871702">
         <mark key="'" line="416" column="31" />
         <mark key="[" line="415" column="0" />
         <mark key="]" line="415" column="0" />
         <mark key="." line="415" column="0" />
       </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/provider/impl/aftersales/AfterSalesProviderImpl.java" timestamp="1590038802865" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590027155368">
         <mark key="[" line="588" column="31" />
         <mark key="]" line="588" column="32" />
         <mark key="^" line="588" column="32" />
         <mark key="." line="588" column="31" />
       </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleAbOosCalPipe.java" timestamp="1590039980626">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="48" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/decorate/manager/OrderAfterSaleRefundCalPipe.java" timestamp="1590040289524" />
     </filemarks>
     <jumps>
       <jump line="45" column="0" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" />
@@ -108,41 +130,51 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text>Snapshots</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIE9iamVjdCBnZGdlID0gbmV3IE9iamVjdCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2QvcC9nYw==</text>
+      <register name="&quot;" type="4">
+        <text>orderItemBO.getPriceDiscountedFee() - orderItemBO.getCouponsDiscountsFee() - orderItemBO.getSubsidyDiscountsFee() +
+                                    orderItemBO.getFreightFee() * orderItemBO.getNum() + orderItemBO.getServiceFee() * orderItemBO.getNum()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>payBalanceFee</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZSA=</text>
+      </register>
+      <register name="1" type="4">
+        <text>orderItemBO.getPriceDiscountedFee() - orderItemBO.getCouponsDiscountsFee() - orderItemBO.getSubsidyDiscountsFee() +
+                                    orderItemBO.getFreightFee() * orderItemBO.getNum() + orderItemBO.getServiceFee() * orderItemBO.getNum()</text>
+      </register>
+      <register name="2" type="4">
+        <text>orderItemBO.getPriceDiscountedFee() - orderItemBO.getCouponsDiscountsFee() - orderItemBO.getSubsidyDiscountsFee() +
+                                    orderItemBO.getFreightFee() * orderItemBO.getNum() + orderItemBO.getServiceFee() * orderItemBO.getNum()</text>
+      </register>
+      <register name="3" type="4">
+        <text>orderItemBO.getPriceDiscountedFee() - orderItemBO.getCouponsDiscountsFee() - orderItemBO.getSubsidyDiscountsFee() +
+                                    orderItemBO.getFreightFee() * orderItemBO.getNum() + orderItemBO.getServiceFee() * orderItemBO.getNum()</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIE9iamVjdCBnZGdlID0gbmV3IE9iamVjdCgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL2QvcC9nYw==</text>
       </register>
     </registers>
   </component>
