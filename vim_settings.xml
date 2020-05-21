@@ -25,11 +25,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1589970032791">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590028246502">
         <mark key="'" line="102" column="21" />
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="61" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="40" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1589969885914">
@@ -37,7 +37,7 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590027077256">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590027155368">
         <mark key="[" line="588" column="31" />
         <mark key="]" line="588" column="32" />
         <mark key="^" line="588" column="32" />
@@ -59,12 +59,15 @@
         <text>Snapshots</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Snapshots</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
