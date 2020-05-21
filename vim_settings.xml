@@ -39,18 +39,22 @@
         <mark key="." line="103" column="71" />
         <mark key="^" line="40" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589969885914">
-        <mark key="[" line="0" column="5" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/mq/consumer/DepositChargeConsumer.java" timestamp="1590030384912">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590030431360">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/factory/result/PrePlaceTradeResultFactory.java" timestamp="1590029464942" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590029676136">
-        <mark key="'" line="294" column="112" />
-        <mark key="[" line="322" column="32" />
-        <mark key="]" line="322" column="73" />
-        <mark key="." line="322" column="72" />
-        <mark key="^" line="322" column="73" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" timestamp="1590030282809">
+        <mark key="'" line="416" column="31" />
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590027155368">
         <mark key="[" line="588" column="31" />
@@ -85,6 +89,7 @@
       <jump line="22" column="64" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" />
       <jump line="208" column="121" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" />
       <jump line="294" column="112" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" />
+      <jump line="416" column="31" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -93,22 +98,31 @@
         <text>Snapshots</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sFee()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIE9iamVjdCBnZGdlID0gbmV3IE9iamVjdCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vMTIxLjQwLjIwOC4yNDI6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXNuYXBzaG90czwvdXJsPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
       </register>
       <register name="-" type="4">
-        <text>sFee()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Coupons</text>
@@ -120,6 +134,8 @@
       <last-search>Coupons</last-search>
       <last-offset />
       <last-pattern>Coupons</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>Coupons</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
