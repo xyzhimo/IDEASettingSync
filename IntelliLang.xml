@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JSON" injector-id="java">
-      <display-name>JSON.parse (com.alibaba.fastjson)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse").withParameters("java.lang.String").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
-    </injection>
-  </component>
-</application>
