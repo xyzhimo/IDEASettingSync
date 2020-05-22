@@ -34,20 +34,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/mq/consumer/DepositChargeConsumer.java" timestamp="1590131697626">
-        <mark key="e" line="90" column="29" />
-        <mark key="'" line="89" column="50" />
-        <mark key="i" line="90" column="29" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="30" />
-        <mark key="^" line="90" column="30" />
-        <mark key="." line="90" column="29" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/factory/create/TradeCreateV2Factory.java" timestamp="1590041564843">
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="75" />
-        <mark key="." line="41" column="74" />
-        <mark key="^" line="41" column="75" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/mq/consumer/DepositChargeConsumer.java" timestamp="1590132829539">
+        <mark key="e" line="71" column="29" />
+        <mark key="i" line="71" column="29" />
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="29" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" timestamp="1590044437677">
         <mark key="'" line="43" column="8" />
@@ -79,8 +72,13 @@
         <mark key="." line="209" column="4" />
         <mark key="^" line="209" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590042341972">
-        <mark key="[" line="0" column="6" />
+      <file name="$MAVEN_REPOSITORY$/com/sxc/svartalfheim/interaction-notify-dubbo-client/1.0.0-SNAPSHOT/interaction-notify-dubbo-client-1.0.0-20200429.084131-1.jar!/com/sxc/svartalfheim/notifyclient/constant/enums/TemplateEnums.class" timestamp="1590132366072">
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="19" column="78" />
+        <mark key="." line="19" column="77" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590132875405">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -96,7 +94,7 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/CouponsFacadeImpl.java" timestamp="1590129254949">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/CouponsFacadeImpl.java" timestamp="1590132624727">
         <mark key="[" line="79" column="71" />
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
