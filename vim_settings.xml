@@ -58,7 +58,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/validate/impl/CutOffTimeV2ValidatePipe.java" timestamp="1590138660926">
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/validate/impl/CutOffTimeV2ValidatePipe.java" timestamp="1590140998279">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="44" />
@@ -67,12 +67,7 @@
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/storehouse-service/pom.xml" timestamp="1590136077674">
         <mark key="[" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/stall-service/pom.xml" timestamp="1590136024370">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="0" />
-      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/config/TradeDiamondConfig.java" timestamp="1590140325796" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/placeorder/impl/PlaceOrderV2Strategy.java" timestamp="1590137439254" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/supplier-settle/pom.xml" timestamp="1590136316395">
         <mark key="[" line="20" column="0" />
