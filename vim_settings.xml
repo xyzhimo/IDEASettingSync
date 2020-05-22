@@ -34,76 +34,102 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/mq/consumer/DepositChargeConsumer.java" timestamp="1590132829539">
-        <mark key="e" line="71" column="29" />
-        <mark key="i" line="71" column="29" />
-        <mark key="[" line="71" column="29" />
-        <mark key="]" line="68" column="30" />
-        <mark key="^" line="68" column="30" />
-        <mark key="." line="68" column="29" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-center-starter/pom.xml" timestamp="1590136373737">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/expense-service/expense-client/pom.xml" timestamp="1590135476385">
-        <mark key="[" line="19" column="17" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/sell-stock-service/sell-stock-client/pom.xml" timestamp="1590136001412">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/storehouse-service/storehouse-client/pom.xml" timestamp="1590136117619">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/pom.xml" timestamp="1590136389376">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/sell-stock-service/sell-stock-core/pom.xml" timestamp="1590135993191">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/storehouse-service/pom.xml" timestamp="1590136077674">
+        <mark key="[" line="25" column="76" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/platform-customer-service/platform-customer-core/pom.xml" timestamp="1590135935224">
+        <mark key="[" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/stall-service/pom.xml" timestamp="1590136024370">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/supplier-settle/pom.xml" timestamp="1590136316395">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/supplier-settle/supplier-settle-core/pom.xml" timestamp="1590136326721">
+        <mark key="[" line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/storehouse-service/storehouse-core/pom.xml" timestamp="1590136112595">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/supplier-settle/supplier-settle-client/pom.xml" timestamp="1590136338213">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590136561908">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/stall-service/stall-core/pom.xml" timestamp="1590136016871">
+        <mark key="[" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/platform-customer-service/platform-customer-client/pom.xml" timestamp="1590135946484">
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/cal/impl/CouponsCalPipe.java" timestamp="1590129485702">
-        <mark key="[" line="55" column="122" />
-        <mark key="]" line="55" column="122" />
-        <mark key="." line="55" column="122" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/stall-service/stall-client/pom.xml" timestamp="1590136042330">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/loader/pipe/UsableCouponsV2LoaderPipe.java" timestamp="1590129188549" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/NotifyFacadeImpl.java" timestamp="1590131533654" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/expense-service/expense-core/pom.xml" timestamp="1590135455428">
-        <mark key="[" line="18" column="17" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/pom.xml" timestamp="1590136405105">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/sxc/svartalfheim/interaction-notify-dubbo-client/1.0.0-SNAPSHOT/interaction-notify-dubbo-client-1.0.0-20200429.084131-1.jar!/com/sxc/svartalfheim/notifyclient/constant/enums/TemplateEnums.class" timestamp="1590132366072">
-        <mark key="[" line="19" column="77" />
-        <mark key="]" line="19" column="78" />
-        <mark key="." line="19" column="77" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/sell-stock-service/pom.xml" timestamp="1590135983220">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/approve-service/pom.xml" timestamp="1590135618644">
-        <mark key="[" line="12" column="30" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-client/pom.xml" timestamp="1590136419440">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590132875405">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590136431585">
+        <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/approve-service/approve-client/pom.xml" timestamp="1590135624727">
-        <mark key="[" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/validate/impl/PayFeeValidatePipe.java" timestamp="1590131568633" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/expense-service/pom.xml" timestamp="1590135500347">
-        <mark key="[" line="25" column="76" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/bo/OrderItemBO.java" timestamp="1590129294234">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/pom.xml" timestamp="1590046342361">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/CouponsFacadeImpl.java" timestamp="1590132624727">
-        <mark key="[" line="79" column="71" />
-        <mark key="]" line="79" column="70" />
-        <mark key="." line="79" column="70" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/approve-service/approve-core/pom.xml" timestamp="1590135431733">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/CouponsFacade.java" timestamp="1590129554004">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="63" />
-        <mark key="." line="65" column="63" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/rebate/OrderRebateHelper.java" timestamp="1590131581434" />
     </filemarks>
     <jumps>
       <jump line="45" column="0" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" />
@@ -139,7 +165,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVkZHBsb3kuc2tpcD4K</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -147,41 +173,35 @@
       <register name="/" type="4">
         <text>d</text>
       </register>
-      <register name="0" type="4">
-        <text>params</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4udGVzdC5za2lwPnRydWU8L21hdmVuLnRlc3Quc2tpcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVkZHBsb3kuc2tpcD4K</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8qKgogICAgICog6I635Y+W57uP6L+H5a6a6YeR5LyY5oOg5ZCO55qE6K6i5Y2V5a2Q6aG56LS555SoCiAgICAgKi8KICAgIHB1YmxpYyBMb25nIGdldERlcG9zaXREaXNjb3VudGVkRmVlKCkgewogICAgICAgIGlmICh0aGlzLnByaWNlRGlzY291bnRlZEZlZSA+IHRoaXMuZGVwb3NpdERpc2NvdW50c0ZlZSkKICAgICAgICAgICAgcmV0dXJuIHRoaXMucHJpY2VEaXNjb3VudGVkRmVlIC0gdGhpcy5kZXBvc2l0RGlzY291bnRzRmVlOwogICAgICAgIGVsc2UKICAgICAgICAgICAgcmV0dXJuIDBMOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNEZXBvc2l0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">fSBlbHNlIHsKICAgICAgICAgICAgcGF5RmVlTWFwID0gb3JkZXJGb3JtQk8uZ2V0T3JkZXJJdGVtQk9zKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKE9yZGVySXRlbUJPOjpnZXRJdGVtSWQsIE9yZGVySXRlbUJPOjpnZXREZXBvc2l0RGlzY291bnRlZEZlZSkpOwogICAgICAgIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-     * 总代金券抵扣
-     * @return 代金券抵扣金额
-     */
-    public Long getTotalCouponsDiscountsFee() {
-        return couponsDiscountsFee + depositDiscountsFee;
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPcmRlckl0ZW1CTzo6Z2V0RGVwb3NpdERpc2NvdW50c0ZlZSkuc3VtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBkZXBvc2l0Q291cG9uc0Rpc2NvdW50RmVlID0gaW5wdXQuZ2V0T3JkZXJGb3JtQk8oKS5nZXRPcmRlckl0ZW1CT3MoKS5zdHJlYW0oKS5tYXBUb0xvbmcoCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uZGVwbG95LnNraXA+dHJ1ZTwvbWF2ZW4uZGVwbG95LnNraXA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2QvcC9nYw==</text>
