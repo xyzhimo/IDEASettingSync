@@ -46,9 +46,13 @@
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="15" />
       </file>
+      <file name="/CouponsCalPipe.java" timestamp="1590390179898">
+        <mark key="[" line="73" column="8" />
+      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/test/sxc/jotunheim/trade/provider/CqsTradeOrderProviderTest.java" timestamp="1590375779298">
         <mark key="[" line="193" column="63" />
       </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/impl/ConsumeCouponsPipe.java" timestamp="1590390129931" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/validate/impl/CloseDeliveryOrderValidatePipe.java" timestamp="1590387689605" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/close/impl/BaseCloseOrderStrategy.java" timestamp="1590387645577" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/commander/commander-monitor-service/commander-monitor-core/pom.xml" timestamp="1590378092601">
@@ -61,7 +65,7 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590378688768">
+      <file name="/Dummy.txt" timestamp="1590390043459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -110,10 +114,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>ionInfos);</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ionInfos);</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
@@ -121,32 +125,32 @@
       <register name="0" type="4">
         <text>orderDTO.getStatus(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4udGVzdC5za2lwPnRydWU8L21hdmVuLnRlc3Quc2tpcD4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgb3JkZXJGb3JtQk8uc2V0Q291cG9uc0RlZHVjdGlvbkluZm9zKG9yaWdpbkNvdXBvbnNEZWR1Y3Q=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tICAgIOi3s+i/h+WNleWFg+a1i+ivlSAgICAtLT4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8bWF2ZW4udGVzdC5za2lwPnRydWU8L21hdmVuLnRlc3Quc2tpcD4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tICAgIOi3s+i/h+WNleWFg+a1i+ivlSAgICAtLT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4udGVzdC5za2lwPnRydWU8L21hdmVuLnRlc3Quc2tpcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPG1hdmVuLnRlc3Quc2tpcD50cnVlPC9tYXZlbi50ZXN0LnNraXA+LS0+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tICAgIOi3s+i/h+WNleWFg+a1i+ivlSAgICAtLT4K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgPG1hdmVuLnRlc3Quc2tpcD50cnVlPC9tYXZlbi50ZXN0LnNraXA+LS0+Cg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tICAgIOi3s+i/h+WNleWFg+a1i+ivlSAgICAtLT4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShvcmlnaW5Db3Vwb25zRGVkdWN0aW9uSW5mb3MpKSB7CiAgICAgICAgICAgIG9yaWdpbkNvdXBvbnNEZWR1Y3Rpb25JbmZvcyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlrprph5HliLgKICAgICAgICBpZiAoaXNEZXBvc2l0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2QvcC9nYw==</text>
