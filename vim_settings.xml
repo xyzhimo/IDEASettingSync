@@ -40,37 +40,33 @@
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/impl/ConsumeFundsPipe.java" timestamp="1590143116896">
-        <mark key="[" line="46" column="83" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/test/sxc/jotunheim/trade/provider/CqsTradeOrderProviderTest.java" timestamp="1590375779298">
+        <mark key="[" line="193" column="63" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/cal/impl/CouponsCalPipe.java" timestamp="1590374345825" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/cal/impl/CouponsCalPipe.java" timestamp="1590375541224" />
       <file name="$USER_HOME$/Material/Dev/project/redis-in-action/java/src/main/java/Chapter02.java" timestamp="1590371277457" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/order-service/order-core/src/main/java/com/sxc/jotunheim/order/application/provider/impl/deposit/DepositOrderProviderImpl.java" timestamp="1590205174000">
         <mark key="]" line="31" column="20" />
         <mark key="." line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/cart/impl/CartStrategy.java" timestamp="1590142605576">
-        <mark key="[" line="132" column="26" />
-        <mark key="]" line="132" column="26" />
-        <mark key="." line="132" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590372013070">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1590376196067">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/activity-service/activity-service/src/main/java/com/sxc/midgard/activityservice/domain/infrastructure/domain/service/CouponsUserServiceImpl.java" timestamp="1590374851229" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/AccountFacade.java" timestamp="1590143035719">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="9" />
-      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/activity-service/activity-service/src/main/java/com/sxc/midgard/activityservice/domain/infrastructure/domain/provider/couponsuser/strategy/expression/impl/OneCouponsExpressionStrategy.java" timestamp="1590375309753" />
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/order-service/order-client/src/main/java/com/sxc/jotunheim/order/provider/deposit/DepositOrderProvider.java" timestamp="1590205161279">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/CouponsFacadeImpl.java" timestamp="1590374775537" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/CouponsFacadeImpl.java" timestamp="1590376183203">
+        <mark key="[" line="82" column="121" />
+        <mark key="]" line="82" column="121" />
+        <mark key="." line="82" column="121" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/activity-service/activity-dubbo-client/src/main/java/com/sxc/midgard/activitydubbo/result/couponsuser/ConsumeResultDTO.java" timestamp="1590375452325" />
     </filemarks>
     <jumps>
       <jump line="45" column="0" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/convert/OrderInputConvert.java" />
@@ -109,10 +105,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>购物车的服务站截单时间放开</text>
+        <text>getPriceDiscountedPrice</text>
       </register>
       <register name="-" type="4">
-        <text>购物车的服务站截单时间放开</text>
+        <text>getPriceDiscountedPrice</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
