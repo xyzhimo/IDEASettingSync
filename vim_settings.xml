@@ -34,6 +34,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/commander/commander-metric-service/commander-metric-core/pom.xml" timestamp="1590378076194">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590390043459">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/commander/commander-starter/pom.xml" timestamp="1590378056490">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -52,28 +62,16 @@
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/test/java/com/test/sxc/jotunheim/trade/provider/CqsTradeOrderProviderTest.java" timestamp="1590375779298">
         <mark key="[" line="193" column="63" />
       </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/action/impl/ConsumeCouponsPipe.java" timestamp="1590391085726" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/validate/impl/CloseDeliveryOrderValidatePipe.java" timestamp="1590387689605" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/close/impl/BaseCloseOrderStrategy.java" timestamp="1590387645577" />
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryPipeHelper.java" timestamp="1590485383080">
+        <mark key="'" line="248" column="1" />
+      </file>
+      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590378273095">
+        <mark key="[" line="30" column="16" />
+      </file>
       <file name="$USER_HOME$/Material/Work/songxiaocai/project/commander/commander-monitor-service/commander-monitor-core/pom.xml" timestamp="1590378092601">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/commander/commander-metric-service/commander-metric-core/pom.xml" timestamp="1590378076194">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590390043459">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/activity-service/activity-service/src/main/java/com/sxc/midgard/activityservice/domain/infrastructure/domain/service/CouponsUserServiceImpl.java" timestamp="1590390979024" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/activity-service/activity-dubbo-client/src/main/java/com/sxc/midgard/activitydubbo/result/couponsuser/ConsumeResultDTO.java" timestamp="1590375452325" />
-      <file name="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/pom.xml" timestamp="1590378273095">
-        <mark key="[" line="30" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -108,6 +106,8 @@
       <jump line="34" column="11" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/DepositOrderFacade.java" />
       <jump line="51" column="0" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/infrastructure/facade/impl/DepositOrderFacade.java" />
       <jump line="77" column="12" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/pipe/cal/impl/CouponsCalPipe.java" />
+      <jump line="117" column="39" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryPipeHelper.java" />
+      <jump line="248" column="1" filename="$USER_HOME$/Material/Work/songxiaocai/project/trade-center/trade-service/trade-core/src/main/java/com/sxc/jotunheim/trade/service/queryorder/OrderQueryPipeHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
