@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="4" />
     <option name="MAX_LOOKUP_WIDTH2" value="679" />
+    <option name="RECENT_FILES_LIMIT" value="100" />
     <option name="SORT_BOOKMARKS" value="true" />
   </component>
 </application>
