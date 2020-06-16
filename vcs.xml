@@ -194,6 +194,10 @@
           <option name="url" value="https://gitee.com/mirrors/dubbo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tianheframe/dubbo-2.6.5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Material/Dev/project" />
