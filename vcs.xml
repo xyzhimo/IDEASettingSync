@@ -230,6 +230,10 @@
           <option name="url" value="git@git.songxiaocai.com:backend/config/prod-server-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.songxiaocai.com:backend/industry/message-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Material/Work/songxiaocai/project" />
