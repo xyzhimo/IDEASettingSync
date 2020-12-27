@@ -262,6 +262,10 @@
           <option name="url" value="https://github.com/GuannanDunkLi/workplace" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="work-place" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Material/Dev/project" />
